@@ -1,0 +1,66 @@
+﻿Alunos:
+- Pedro Ramos Leite Soares - 20211tiimi0125
+- Rafael Barbosa Martins - 20201tiimi0250
+
+
+Cookner Notes
+Minimundo:
+        Sistema em que cada USUARIO com login, senha e palavra-chave pode cadastrar RECEITAS que com nome, quantidade de pessoas que  a receita serve, validade em dias que a comida aguenta após ser feita e modo_preparo, e INGREDIENTE com  nome_ingrediente, medida_ingrediente usada, como, gramas, mililitros, etc. qtd_ingrediente usada na receita. Um USUARIO possui nenhuma ou mais RECEITAS e uma RECEITA pertence exclusivamente à um USUARIO. Um INGREDIENTE pertence unicamente a uma RECEITA, e uma RECEITA tem um ou vários ingredientes.
+Conceitual:
+  
+
+Lógico:
+  
+
+
+
+Protótipo tela de Cadastrar Usuário
+  
+
+Protótipo Tela de Entrar  
+
+
+
+
+
+
+
+
+
+
+Protótipo tela de recuperação de senha:
+  
+
+
+
+  
+
+Protótipo tela que mostra senha:
+  
+
+Protótipo tela de alteração de senha:
+  
+
+Protótipo das telas gráficas:
+MENU:
+  
+
+CADASTRAR RECEITAS:  
+
+
+
+
+
+
+
+
+EDITAR RECEITA:
+  
+
+ALTERAR RECEITA:
+  
+
+CONSULTAR RECEITAS:
+  
+
+VER RECEITA:
