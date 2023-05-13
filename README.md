@@ -1,2 +1,2 @@
 # Cadastro e gerenciamento de receitas
-Integrantes @pedrorl11
+Integrantes Pedro Ramos Leite Soares e Rafael Barbosa Martins
